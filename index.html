@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Feriados de Patos de Minas</title>
+<meta name="description" content="Calendário dos feriados municipais de Patos de Minas - MG, com assinatura para o Calendário do iPhone.">
+<style>
+:root{--bg:#faf8f4;--card:#fff;--ink:#23211e;--mute:#7a756c;--line:#e8e3d9;--accent:#8a6f47;--accent-ink:#fff;--hl:#f1e9da}
+@media(prefers-color-scheme:dark){:root{--bg:#171512;--card:#201d19;--ink:#f1ede6;--mute:#a59e92;--line:#33302a;--accent:#c9a56b;--accent-ink:#1b1812;--hl:#2d271d}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 -apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,sans-serif;-webkit-text-size-adjust:100%}
+.wrap{max-width:880px;margin:0 auto;padding:max(32px,env(safe-area-inset-top)) 20px 64px}
+header{padding:28px 0 8px}
+.kicker{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+h1{font:600 clamp(30px,6vw,46px)/1.1 ui-serif,Georgia,"Times New Roman",serif;margin:8px 0 6px;letter-spacing:-.01em}
+.sub{color:var(--mute);margin:0}
+.cta{display:flex;flex-wrap:wrap;gap:12px;margin:28px 0 6px}
+.btn{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:0 22px;border-radius:12px;text-decoration:none;font-weight:600;font-size:16px;border:1px solid var(--line)}
+.btn.primary{background:var(--accent);color:var(--accent-ink);border-color:var(--accent);flex:1 1 220px}
+.btn.secondary{background:var(--card);color:var(--ink);flex:0 1 auto}
+.hint{font-size:13px;color:var(--mute);margin:6px 0 0}
+section{margin-top:44px}
+h2{font:600 22px ui-serif,Georgia,serif;margin:0 0 14px}
+.yearbar{display:flex;align-items:center;gap:10px;margin-bottom:16px}
+.yearbar button{width:44px;height:44px;border-radius:12px;border:1px solid var(--line);background:var(--card);color:var(--ink);font-size:18px;cursor:pointer}
+.yearbar strong{font:600 22px ui-serif,Georgia,serif;min-width:64px;text-align:center}
+.list{display:grid;gap:10px}
+.item{display:flex;gap:14px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 16px}
+.dt{min-width:56px;text-align:center;line-height:1.1}
+.dt b{display:block;font:600 26px ui-serif,Georgia,serif}
+.dt span{font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--mute)}
+.nm{font-weight:600}
+.meta{font-size:13px;color:var(--mute)}
+.tag{display:inline-block;font-size:11px;padding:1px 8px;border-radius:99px;background:var(--hl);color:var(--accent);margin-left:6px;vertical-align:1px}
+.months{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:12px}
+.m{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px}
+.m h3{margin:0 0 6px;font-size:13px;font-weight:600;text-transform:capitalize}
+.g{display:grid;grid-template-columns:repeat(7,1fr);gap:2px;text-align:center;font-size:12px}
+.g i{font-style:normal;color:var(--mute);font-size:10px}
+.g span{padding:4px 0;border-radius:6px}
+.g .h{background:var(--accent);color:var(--accent-ink);font-weight:700}
+ol.steps{padding-left:20px;margin:0}ol.steps li{margin:6px 0}
+.src{font-size:14px}.src li{margin:8px 0}
+code{background:var(--hl);padding:2px 6px;border-radius:6px;font-size:13px;word-break:break-all}
+a{color:var(--accent)}
+footer{margin-top:48px;padding-top:18px;border-top:1px solid var(--line);font-size:13px;color:var(--mute)}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div class="kicker">Patos de Minas · Minas Gerais</div>
+  <h1>Feriados de Patos de Minas</h1>
+  <p class="sub">Somente os feriados municipais instituídos por lei, em um calendário que se atualiza sozinho no seu iPhone.</p>
+  <div class="cta">
+    <a id="assinar" class="btn primary" href="#">Assinar no iPhone</a>
+    <a id="baixar" class="btn secondary" href="feriados.ics" download>Baixar arquivo .ics</a>
+  </div>
+  <p class="hint">Assinar mantém o calendário atualizado; baixar apenas importa uma cópia.</p>
+</header>
+
+<section>
+  <h2>Calendário</h2>
+  <div class="yearbar"><button id="prev" aria-label="Ano anterior">‹</button><strong id="ano"></strong><button id="next" aria-label="Próximo ano">›</button></div>
+  <div class="list" id="lista"></div>
+  <div class="months" id="meses" style="margin-top:18px"></div>
+</section>
+
+<section>
+  <h2>Como adicionar ao iPhone</h2>
+  <ol class="steps">
+    <li>Toque em <b>Assinar no iPhone</b> (abra esta página no Safari).</li>
+    <li>Confirme em <b>Assinar</b> quando o Calendário perguntar.</li>
+    <li>Pronto: o iPhone busca as atualizações sozinho.</li>
+  </ol>
+  <p class="hint">Manualmente: Ajustes › Calendário › Contas › Adicionar Conta › Outra › Adicionar Calendário Assinado, e cole: <code id="urlHttps"></code></p>
+</section>
+
+<section>
+  <h2>Base legal e fontes</h2>
+  <ul class="src" id="fontes"></ul>
+  <p class="hint">Corpus Christi consta como Lei nº 971/1968 na Prefeitura e na Câmara, e como Lei nº 855/1968 no TRT-MG. O feriado é o mesmo; a divergência é só de numeração.</p>
+  <p class="hint">Não incluídos por não serem feriados municipais por lei: Carnaval, Quarta-feira de Cinzas, véspera de Natal e de Ano Novo, Dia do Servidor Público (pontos facultativos ou datas de decreto anual) e os feriados nacionais.</p>
+</section>
+
+<footer>Dados verificados em <span id="atual"></span>. Confirme sempre no Diário Oficial do Município. Projeto independente, sem vínculo com a Prefeitura.</footer>
+</div>
+<script>
+const MES=["janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"];
+const $=s=>document.querySelector(s);
+const base=new URL("feriados.ics",location.href);
+const https=base.href, webcal=https.replace(/^https?:/,"webcal:");
+$("#assinar").href=webcal; $("#urlHttps").textContent=https;
+fetch("dados.json").then(r=>r.json()).then(D=>{
+  const por=Object.fromEntries(D.feriados.map(f=>[f.id,f]));
+  const evs=D.eventos.map(e=>({...e,d:new Date(e.data+"T12:00:00")}));
+  const anos=[...new Set(evs.map(e=>e.ano))];
+  let ano=Math.min(Math.max(new Date().getFullYear(),anos[0]),anos[anos.length-1]);
+  $("#atual").textContent=new Date(D.atualizado_em+"T12:00:00").toLocaleDateString("pt-BR");
+  $("#fontes").innerHTML=D.feriados.map(f=>`<li><b>${f.nome}</b>: ${f.lei}.<br>`+f.fontes.map(k=>`<a href="${D.fontes[k].url}" rel="noopener">${D.fontes[k].titulo}</a>`).join(" · ")+`</li>`).join("");
+  function render(){
+    $("#ano").textContent=ano;
+    const doAno=evs.filter(e=>e.ano===ano);
+    $("#lista").innerHTML=doAno.map(e=>{const f=por[e.id];
+      return `<div class="item"><div class="dt"><b>${e.d.getDate()}</b><span>${MES[e.d.getMonth()].slice(0,3)}</span></div><div><div class="nm">${f.nome}${f.tipo==="movel"?'<span class="tag">data móvel</span>':""}</div><div class="meta">${e.d.toLocaleDateString("pt-BR",{weekday:"long"})} · ${f.lei.split(";")[0]}${f.regra_texto?" · "+f.regra_texto:""}</div></div></div>`}).join("");
+    const hl=new Set(doAno.map(e=>e.data));
+    $("#meses").innerHTML=MES.map((nome,m)=>{
+      const ini=new Date(ano,m,1).getDay(), dias=new Date(ano,m+1,0).getDate();
+      let c="DSTQQSS".split("").map(x=>`<i>${x}</i>`).join("")+"<span></span>".repeat(ini);
+      for(let d=1;d<=dias;d++){const k=`${ano}-${String(m+1).padStart(2,"0")}-${String(d).padStart(2,"0")}`;c+=`<span class="${hl.has(k)?"h":""}">${d}</span>`}
+      return `<div class="m"><h3>${nome}</h3><div class="g">${c}</div></div>`}).join("");
+    $("#prev").disabled=ano<=anos[0]; $("#next").disabled=ano>=anos[anos.length-1];
+  }
+  $("#prev").onclick=()=>{ano--;render()}; $("#next").onclick=()=>{ano++;render()};
+  render();
+});
+</script>
+</body>
+</html>
