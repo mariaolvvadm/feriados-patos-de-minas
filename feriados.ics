@@ -1,0 +1,1124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Feriados de Patos de Minas//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Feriados de Patos de Minas
+X-WR-CALDESC:Feriados municipais de Patos de Minas - MG (por lei municipal)
+X-WR-TIMEZONE:America/Sao_Paulo
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VTIMEZONE
+TZID:America/Sao_Paulo
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+TZNAME:-03
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:paixao-de-cristo-2025@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20250418
+DTEND;VALUE=DATE:20250419
+SUMMARY:Paixão de Cristo
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968\; Lei Federal n
+ º 9.093/1995\, art. 2º\, II. Data móvel: Sexta-feira anterior ao Doming
+ o de Páscoa.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:aniversario-da-cidade-2025@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20250524
+DTEND;VALUE=DATE:20250525
+SUMMARY:Aniversário de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 304/1956.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:santo-antonio-2025@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20250613
+DTEND;VALUE=DATE:20250614
+SUMMARY:Santo Antônio\, padroeiro de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:corpus-christi-2025@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20250619
+DTEND;VALUE=DATE:20250620
+SUMMARY:Corpus Christi
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968 (Prefeitura/Câm
+ ara)\; o TRT-MG cita a Lei nº 855/1968. Data móvel: 60 dias após o Domi
+ ngo de Páscoa (quinta-feira).
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:assuncao-de-nossa-senhora-2025@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250816
+SUMMARY:Assunção de Nossa Senhora
+DESCRIPTION:Feriado municipal - Lei Municipal nº 5.280/2003.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:paixao-de-cristo-2026@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Paixão de Cristo
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968\; Lei Federal n
+ º 9.093/1995\, art. 2º\, II. Data móvel: Sexta-feira anterior ao Doming
+ o de Páscoa.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:aniversario-da-cidade-2026@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:Aniversário de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 304/1956.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:corpus-christi-2026@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:Corpus Christi
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968 (Prefeitura/Câm
+ ara)\; o TRT-MG cita a Lei nº 855/1968. Data móvel: 60 dias após o Domi
+ ngo de Páscoa (quinta-feira).
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:santo-antonio-2026@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Santo Antônio\, padroeiro de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:assuncao-de-nossa-senhora-2026@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:Assunção de Nossa Senhora
+DESCRIPTION:Feriado municipal - Lei Municipal nº 5.280/2003.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:paixao-de-cristo-2027@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Paixão de Cristo
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968\; Lei Federal n
+ º 9.093/1995\, art. 2º\, II. Data móvel: Sexta-feira anterior ao Doming
+ o de Páscoa.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:aniversario-da-cidade-2027@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:Aniversário de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 304/1956.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:corpus-christi-2027@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:Corpus Christi
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968 (Prefeitura/Câm
+ ara)\; o TRT-MG cita a Lei nº 855/1968. Data móvel: 60 dias após o Domi
+ ngo de Páscoa (quinta-feira).
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:santo-antonio-2027@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:Santo Antônio\, padroeiro de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:assuncao-de-nossa-senhora-2027@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Assunção de Nossa Senhora
+DESCRIPTION:Feriado municipal - Lei Municipal nº 5.280/2003.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:paixao-de-cristo-2028@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280415
+SUMMARY:Paixão de Cristo
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968\; Lei Federal n
+ º 9.093/1995\, art. 2º\, II. Data móvel: Sexta-feira anterior ao Doming
+ o de Páscoa.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:aniversario-da-cidade-2028@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20280524
+DTEND;VALUE=DATE:20280525
+SUMMARY:Aniversário de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 304/1956.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:santo-antonio-2028@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20280613
+DTEND;VALUE=DATE:20280614
+SUMMARY:Santo Antônio\, padroeiro de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:corpus-christi-2028@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
+SUMMARY:Corpus Christi
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968 (Prefeitura/Câm
+ ara)\; o TRT-MG cita a Lei nº 855/1968. Data móvel: 60 dias após o Domi
+ ngo de Páscoa (quinta-feira).
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:assuncao-de-nossa-senhora-2028@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20280815
+DTEND;VALUE=DATE:20280816
+SUMMARY:Assunção de Nossa Senhora
+DESCRIPTION:Feriado municipal - Lei Municipal nº 5.280/2003.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:paixao-de-cristo-2029@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20290330
+DTEND;VALUE=DATE:20290331
+SUMMARY:Paixão de Cristo
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968\; Lei Federal n
+ º 9.093/1995\, art. 2º\, II. Data móvel: Sexta-feira anterior ao Doming
+ o de Páscoa.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:aniversario-da-cidade-2029@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20290524
+DTEND;VALUE=DATE:20290525
+SUMMARY:Aniversário de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 304/1956.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:corpus-christi-2029@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20290531
+DTEND;VALUE=DATE:20290601
+SUMMARY:Corpus Christi
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968 (Prefeitura/Câm
+ ara)\; o TRT-MG cita a Lei nº 855/1968. Data móvel: 60 dias após o Domi
+ ngo de Páscoa (quinta-feira).
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:santo-antonio-2029@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20290613
+DTEND;VALUE=DATE:20290614
+SUMMARY:Santo Antônio\, padroeiro de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:assuncao-de-nossa-senhora-2029@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20290815
+DTEND;VALUE=DATE:20290816
+SUMMARY:Assunção de Nossa Senhora
+DESCRIPTION:Feriado municipal - Lei Municipal nº 5.280/2003.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:paixao-de-cristo-2030@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20300419
+DTEND;VALUE=DATE:20300420
+SUMMARY:Paixão de Cristo
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968\; Lei Federal n
+ º 9.093/1995\, art. 2º\, II. Data móvel: Sexta-feira anterior ao Doming
+ o de Páscoa.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:aniversario-da-cidade-2030@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20300524
+DTEND;VALUE=DATE:20300525
+SUMMARY:Aniversário de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 304/1956.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:santo-antonio-2030@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20300613
+DTEND;VALUE=DATE:20300614
+SUMMARY:Santo Antônio\, padroeiro de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:corpus-christi-2030@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20300620
+DTEND;VALUE=DATE:20300621
+SUMMARY:Corpus Christi
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968 (Prefeitura/Câm
+ ara)\; o TRT-MG cita a Lei nº 855/1968. Data móvel: 60 dias após o Domi
+ ngo de Páscoa (quinta-feira).
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:assuncao-de-nossa-senhora-2030@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20300815
+DTEND;VALUE=DATE:20300816
+SUMMARY:Assunção de Nossa Senhora
+DESCRIPTION:Feriado municipal - Lei Municipal nº 5.280/2003.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:paixao-de-cristo-2031@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20310411
+DTEND;VALUE=DATE:20310412
+SUMMARY:Paixão de Cristo
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968\; Lei Federal n
+ º 9.093/1995\, art. 2º\, II. Data móvel: Sexta-feira anterior ao Doming
+ o de Páscoa.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:aniversario-da-cidade-2031@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20310524
+DTEND;VALUE=DATE:20310525
+SUMMARY:Aniversário de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 304/1956.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:corpus-christi-2031@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20310612
+DTEND;VALUE=DATE:20310613
+SUMMARY:Corpus Christi
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968 (Prefeitura/Câm
+ ara)\; o TRT-MG cita a Lei nº 855/1968. Data móvel: 60 dias após o Domi
+ ngo de Páscoa (quinta-feira).
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:santo-antonio-2031@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20310613
+DTEND;VALUE=DATE:20310614
+SUMMARY:Santo Antônio\, padroeiro de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:assuncao-de-nossa-senhora-2031@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20310815
+DTEND;VALUE=DATE:20310816
+SUMMARY:Assunção de Nossa Senhora
+DESCRIPTION:Feriado municipal - Lei Municipal nº 5.280/2003.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:paixao-de-cristo-2032@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20320326
+DTEND;VALUE=DATE:20320327
+SUMMARY:Paixão de Cristo
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968\; Lei Federal n
+ º 9.093/1995\, art. 2º\, II. Data móvel: Sexta-feira anterior ao Doming
+ o de Páscoa.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:aniversario-da-cidade-2032@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20320524
+DTEND;VALUE=DATE:20320525
+SUMMARY:Aniversário de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 304/1956.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:corpus-christi-2032@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20320527
+DTEND;VALUE=DATE:20320528
+SUMMARY:Corpus Christi
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968 (Prefeitura/Câm
+ ara)\; o TRT-MG cita a Lei nº 855/1968. Data móvel: 60 dias após o Domi
+ ngo de Páscoa (quinta-feira).
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:santo-antonio-2032@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20320613
+DTEND;VALUE=DATE:20320614
+SUMMARY:Santo Antônio\, padroeiro de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:assuncao-de-nossa-senhora-2032@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20320815
+DTEND;VALUE=DATE:20320816
+SUMMARY:Assunção de Nossa Senhora
+DESCRIPTION:Feriado municipal - Lei Municipal nº 5.280/2003.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:paixao-de-cristo-2033@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20330415
+DTEND;VALUE=DATE:20330416
+SUMMARY:Paixão de Cristo
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968\; Lei Federal n
+ º 9.093/1995\, art. 2º\, II. Data móvel: Sexta-feira anterior ao Doming
+ o de Páscoa.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:aniversario-da-cidade-2033@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20330524
+DTEND;VALUE=DATE:20330525
+SUMMARY:Aniversário de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 304/1956.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:santo-antonio-2033@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20330613
+DTEND;VALUE=DATE:20330614
+SUMMARY:Santo Antônio\, padroeiro de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:corpus-christi-2033@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20330616
+DTEND;VALUE=DATE:20330617
+SUMMARY:Corpus Christi
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968 (Prefeitura/Câm
+ ara)\; o TRT-MG cita a Lei nº 855/1968. Data móvel: 60 dias após o Domi
+ ngo de Páscoa (quinta-feira).
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:assuncao-de-nossa-senhora-2033@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20330815
+DTEND;VALUE=DATE:20330816
+SUMMARY:Assunção de Nossa Senhora
+DESCRIPTION:Feriado municipal - Lei Municipal nº 5.280/2003.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:paixao-de-cristo-2034@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20340407
+DTEND;VALUE=DATE:20340408
+SUMMARY:Paixão de Cristo
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968\; Lei Federal n
+ º 9.093/1995\, art. 2º\, II. Data móvel: Sexta-feira anterior ao Doming
+ o de Páscoa.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:aniversario-da-cidade-2034@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20340524
+DTEND;VALUE=DATE:20340525
+SUMMARY:Aniversário de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 304/1956.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:corpus-christi-2034@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20340608
+DTEND;VALUE=DATE:20340609
+SUMMARY:Corpus Christi
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968 (Prefeitura/Câm
+ ara)\; o TRT-MG cita a Lei nº 855/1968. Data móvel: 60 dias após o Domi
+ ngo de Páscoa (quinta-feira).
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:santo-antonio-2034@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20340613
+DTEND;VALUE=DATE:20340614
+SUMMARY:Santo Antônio\, padroeiro de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:assuncao-de-nossa-senhora-2034@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20340815
+DTEND;VALUE=DATE:20340816
+SUMMARY:Assunção de Nossa Senhora
+DESCRIPTION:Feriado municipal - Lei Municipal nº 5.280/2003.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:paixao-de-cristo-2035@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20350323
+DTEND;VALUE=DATE:20350324
+SUMMARY:Paixão de Cristo
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968\; Lei Federal n
+ º 9.093/1995\, art. 2º\, II. Data móvel: Sexta-feira anterior ao Doming
+ o de Páscoa.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:aniversario-da-cidade-2035@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20350524
+DTEND;VALUE=DATE:20350525
+SUMMARY:Aniversário de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 304/1956.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:corpus-christi-2035@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20350524
+DTEND;VALUE=DATE:20350525
+SUMMARY:Corpus Christi
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968 (Prefeitura/Câm
+ ara)\; o TRT-MG cita a Lei nº 855/1968. Data móvel: 60 dias após o Domi
+ ngo de Páscoa (quinta-feira).
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:santo-antonio-2035@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20350613
+DTEND;VALUE=DATE:20350614
+SUMMARY:Santo Antônio\, padroeiro de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:assuncao-de-nossa-senhora-2035@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20350815
+DTEND;VALUE=DATE:20350816
+SUMMARY:Assunção de Nossa Senhora
+DESCRIPTION:Feriado municipal - Lei Municipal nº 5.280/2003.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:paixao-de-cristo-2036@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20360411
+DTEND;VALUE=DATE:20360412
+SUMMARY:Paixão de Cristo
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968\; Lei Federal n
+ º 9.093/1995\, art. 2º\, II. Data móvel: Sexta-feira anterior ao Doming
+ o de Páscoa.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:aniversario-da-cidade-2036@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20360524
+DTEND;VALUE=DATE:20360525
+SUMMARY:Aniversário de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 304/1956.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:corpus-christi-2036@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20360612
+DTEND;VALUE=DATE:20360613
+SUMMARY:Corpus Christi
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968 (Prefeitura/Câm
+ ara)\; o TRT-MG cita a Lei nº 855/1968. Data móvel: 60 dias após o Domi
+ ngo de Páscoa (quinta-feira).
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:santo-antonio-2036@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20360613
+DTEND;VALUE=DATE:20360614
+SUMMARY:Santo Antônio\, padroeiro de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:assuncao-de-nossa-senhora-2036@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20360815
+DTEND;VALUE=DATE:20360816
+SUMMARY:Assunção de Nossa Senhora
+DESCRIPTION:Feriado municipal - Lei Municipal nº 5.280/2003.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:paixao-de-cristo-2037@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20370403
+DTEND;VALUE=DATE:20370404
+SUMMARY:Paixão de Cristo
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968\; Lei Federal n
+ º 9.093/1995\, art. 2º\, II. Data móvel: Sexta-feira anterior ao Doming
+ o de Páscoa.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:aniversario-da-cidade-2037@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20370524
+DTEND;VALUE=DATE:20370525
+SUMMARY:Aniversário de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 304/1956.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:corpus-christi-2037@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20370604
+DTEND;VALUE=DATE:20370605
+SUMMARY:Corpus Christi
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968 (Prefeitura/Câm
+ ara)\; o TRT-MG cita a Lei nº 855/1968. Data móvel: 60 dias após o Domi
+ ngo de Páscoa (quinta-feira).
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:santo-antonio-2037@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20370613
+DTEND;VALUE=DATE:20370614
+SUMMARY:Santo Antônio\, padroeiro de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:assuncao-de-nossa-senhora-2037@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20370815
+DTEND;VALUE=DATE:20370816
+SUMMARY:Assunção de Nossa Senhora
+DESCRIPTION:Feriado municipal - Lei Municipal nº 5.280/2003.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:paixao-de-cristo-2038@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20380423
+DTEND;VALUE=DATE:20380424
+SUMMARY:Paixão de Cristo
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968\; Lei Federal n
+ º 9.093/1995\, art. 2º\, II. Data móvel: Sexta-feira anterior ao Doming
+ o de Páscoa.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:aniversario-da-cidade-2038@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20380524
+DTEND;VALUE=DATE:20380525
+SUMMARY:Aniversário de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 304/1956.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:santo-antonio-2038@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20380613
+DTEND;VALUE=DATE:20380614
+SUMMARY:Santo Antônio\, padroeiro de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:corpus-christi-2038@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20380624
+DTEND;VALUE=DATE:20380625
+SUMMARY:Corpus Christi
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968 (Prefeitura/Câm
+ ara)\; o TRT-MG cita a Lei nº 855/1968. Data móvel: 60 dias após o Domi
+ ngo de Páscoa (quinta-feira).
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:assuncao-de-nossa-senhora-2038@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20380815
+DTEND;VALUE=DATE:20380816
+SUMMARY:Assunção de Nossa Senhora
+DESCRIPTION:Feriado municipal - Lei Municipal nº 5.280/2003.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:paixao-de-cristo-2039@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20390408
+DTEND;VALUE=DATE:20390409
+SUMMARY:Paixão de Cristo
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968\; Lei Federal n
+ º 9.093/1995\, art. 2º\, II. Data móvel: Sexta-feira anterior ao Doming
+ o de Páscoa.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:aniversario-da-cidade-2039@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20390524
+DTEND;VALUE=DATE:20390525
+SUMMARY:Aniversário de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 304/1956.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:corpus-christi-2039@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20390609
+DTEND;VALUE=DATE:20390610
+SUMMARY:Corpus Christi
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968 (Prefeitura/Câm
+ ara)\; o TRT-MG cita a Lei nº 855/1968. Data móvel: 60 dias após o Domi
+ ngo de Páscoa (quinta-feira).
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:santo-antonio-2039@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20390613
+DTEND;VALUE=DATE:20390614
+SUMMARY:Santo Antônio\, padroeiro de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:assuncao-de-nossa-senhora-2039@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20390815
+DTEND;VALUE=DATE:20390816
+SUMMARY:Assunção de Nossa Senhora
+DESCRIPTION:Feriado municipal - Lei Municipal nº 5.280/2003.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:paixao-de-cristo-2040@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20400330
+DTEND;VALUE=DATE:20400331
+SUMMARY:Paixão de Cristo
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968\; Lei Federal n
+ º 9.093/1995\, art. 2º\, II. Data móvel: Sexta-feira anterior ao Doming
+ o de Páscoa.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:aniversario-da-cidade-2040@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20400524
+DTEND;VALUE=DATE:20400525
+SUMMARY:Aniversário de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 304/1956.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:corpus-christi-2040@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20400531
+DTEND;VALUE=DATE:20400601
+SUMMARY:Corpus Christi
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968 (Prefeitura/Câm
+ ara)\; o TRT-MG cita a Lei nº 855/1968. Data móvel: 60 dias após o Domi
+ ngo de Páscoa (quinta-feira).
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:santo-antonio-2040@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20400613
+DTEND;VALUE=DATE:20400614
+SUMMARY:Santo Antônio\, padroeiro de Patos de Minas
+DESCRIPTION:Feriado municipal - Lei Municipal nº 971/1968.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:assuncao-de-nossa-senhora-2040@feriados-patos-de-minas
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20400815
+DTEND;VALUE=DATE:20400816
+SUMMARY:Assunção de Nossa Senhora
+DESCRIPTION:Feriado municipal - Lei Municipal nº 5.280/2003.
+LOCATION:Patos de Minas - MG
+CATEGORIES:Feriado municipal
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

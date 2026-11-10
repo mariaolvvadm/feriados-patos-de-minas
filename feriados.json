@@ -1,0 +1,74 @@
+{
+  "atualizado_em": "2026-11-10",
+  "ano_inicial": 2025,
+  "ano_final_minimo": 2040,
+  "feriados": [
+    {
+      "id": "paixao-de-cristo",
+      "nome": "Paixão de Cristo",
+      "tipo": "movel",
+      "regra": "pascoa-2",
+      "regra_texto": "Sexta-feira anterior ao Domingo de Páscoa",
+      "lei": "Lei Municipal nº 971/1968; Lei Federal nº 9.093/1995, art. 2º, II",
+      "fontes": ["camara", "diario2026", "decreto2024"]
+    },
+    {
+      "id": "aniversario-da-cidade",
+      "nome": "Aniversário de Patos de Minas",
+      "tipo": "fixo",
+      "mes": 5,
+      "dia": 24,
+      "lei": "Lei Municipal nº 304/1956",
+      "fontes": ["lei304", "camara", "trt"]
+    },
+    {
+      "id": "corpus-christi",
+      "nome": "Corpus Christi",
+      "tipo": "movel",
+      "regra": "pascoa+60",
+      "regra_texto": "60 dias após o Domingo de Páscoa (quinta-feira)",
+      "lei": "Lei Municipal nº 971/1968 (Prefeitura/Câmara); o TRT-MG cita a Lei nº 855/1968",
+      "fontes": ["camara", "diario2026", "decreto2024", "trt"]
+    },
+    {
+      "id": "santo-antonio",
+      "nome": "Santo Antônio, padroeiro de Patos de Minas",
+      "tipo": "fixo",
+      "mes": 6,
+      "dia": 13,
+      "lei": "Lei Municipal nº 971/1968",
+      "fontes": ["camara", "diario2026", "trt"]
+    },
+    {
+      "id": "assuncao-de-nossa-senhora",
+      "nome": "Assunção de Nossa Senhora",
+      "tipo": "fixo",
+      "mes": 8,
+      "dia": 15,
+      "lei": "Lei Municipal nº 5.280/2003",
+      "fontes": ["diario2026", "decreto2024", "trt"]
+    }
+  ],
+  "fontes": {
+    "camara": {
+      "titulo": "Câmara Municipal de Patos de Minas — Feriados nacionais e municipais",
+      "url": "https://www.camarapatos.mg.gov.br/index.php?option=com_content&view=article&id=455%3Aferiados-e-pontos-facultativos-nacionais-e-feriados-do-municipio-de-patos-de-minas&catid=59%3Anoticias&Itemid=101"
+    },
+    "lei304": {
+      "titulo": "Lei Ordinária nº 304/1956 — Declara feriado municipal o dia 24 de maio",
+      "url": "https://leismunicipais.com.br/a/mg/p/patos-de-minas/lei-ordinaria/1956/31/304/lei-ordinaria-n-304-1956-declara-feriado-municipal-o-dia-24-de-maio"
+    },
+    "diario2026": {
+      "titulo": "Diário Oficial do Município — feriados municipais de 2026 (noticiado por Patos Hoje)",
+      "url": "https://patoshoje.com.br/noticias/diario-oficial-divulga-feriados-municipais-e-pontos-facultativos-de-2026-em-patos-de-minas-93241.html"
+    },
+    "decreto2024": {
+      "titulo": "Decreto nº 5.648/2024 — feriados municipais de 2024 (Diário Oficial de Patos de Minas)",
+      "url": "https://patospremia.com.br/arquivos/retificacao_do_edital_de_homologacao_dos_resultados_do_sorteio_n%C2%BA_7_14060918.pdf"
+    },
+    "trt": {
+      "titulo": "TRT-MG — Feriados locais 2026",
+      "url": "https://portal.trt3.jus.br/internet/institucional/calendario/feriados-locais-1/feriados-locais-2026"
+    }
+  }
+}
